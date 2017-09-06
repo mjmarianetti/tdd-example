@@ -6,6 +6,8 @@
     - npm
 - PHP
     - composer
+- RUBY
+    - ruby installed    
 
 # USAGE
 
@@ -20,3 +22,7 @@
     composer install
 
     composer test
+
+### RUBY
+
+    ruby test/fizz_buzz_test.rb
