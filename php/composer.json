@@ -1,0 +1,16 @@
+{
+    "name": "tdd-example/php",
+    "description": "TDD Example FizzBuzz",
+    "type": "project",
+    "require-dev": {
+        "phpunit/phpunit": "^6.3"
+    },
+    "license": "MIT",
+    "authors": [{
+        "name": "Martin Marianetti",
+        "email": "martin.marianetti@gmail.com"
+    }],
+    "scripts": {
+        "test": "./vendor/bin/phpunit --verbose --testdox ./test/FizzBuzzTest.php"
+    }
+}

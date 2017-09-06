@@ -1,0 +1,23 @@
+{
+  "name": "tdd-example-node",
+  "version": "1.0.0",
+  "description": "TDD Example NODE",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test"
+  },
+  "author": "martin.marianetti@gmail.com",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com:mjmarianetti/tdd-example.git"
+  },
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^3.5.0"
+  },
+  "bugs": {
+    "url": "https://github.com/mjmarianetti/tdd-example/issues"
+  },
+  "homepage": "https://github.com/mjmarianetti/tdd-example#readme"
+}
